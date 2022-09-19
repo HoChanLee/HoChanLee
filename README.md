@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi👋&fontAlign=80&fontAlignY=36&color=gradient&customColorList=0,23,21,21,12,13)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi👋&fontAlign=80&fontAlignY=36&color=gradient&customColorList=0,23,21,21,12,13)
 
 
 ### 🛠 Stack
